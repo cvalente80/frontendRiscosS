@@ -505,7 +505,7 @@ const resources = {
     },
     sim_auto: {
       title: 'Simulação de Seguro Auto',
-      stepProgress: 'Passo {{step}} de 3',
+      stepProgress: 'Passo {{step}} de 4',
       step1Title: 'Passo 1 - Identificação do condutor',
       step2Title: 'Passo 2 - Identificação da viatura',
       step3Title: 'Passo 3 - Produto e coberturas adicionais',
@@ -1122,6 +1122,29 @@ const resources = {
     home: {
       heroTitle: 'Seguros em Ansião (Leiria) — Auto, Vida, Saúde e Habitação',
       heroDesc: 'Ansião Seguros: simulações rápidas e propostas personalizadas para Auto, Vida, Saúde, Habitação e soluções para empresas.',
+      heroTagline: 'Simulações instantâneas · Propostas personalizadas',
+      heroHeadline: 'Proteja o que mais importa, com confiança.',
+      heroSubtitle: 'Simulações rápidas e automáticas para Auto, Vida, Saúde e Habitação — tudo num só lugar, com atendimento personalizado.',
+      heroCta1: 'Simular agora',
+      heroCta2: 'Ver todos os produtos',
+      heroStats: [
+        { value: '9+', label: 'Tipos de seguro' },
+        { value: '100%', label: 'Digital' },
+        { value: '24h', label: 'Resposta rápida' },
+        { value: '★ 5.0', label: 'Satisfação' }
+      ],
+      trustBadges: [
+        'Sem compromisso',
+        'Simulação gratuita',
+        'Dados seguros',
+        'Atendimento personalizado'
+      ],
+      sectionTagIndividuals: '👤 Particulares',
+      sectionTagBusiness: '🏢 Empresas',
+      sectionTagBenefits: '⭐ Vantagens',
+      ctaBannerTitle: 'Pronto para proteger o que mais importa?',
+      ctaBannerDesc: 'Faça a sua simulação em poucos minutos e receba uma proposta personalizada.',
+      ctaBannerContact: 'Fale connosco',
       featuredIndividuals: 'Produtos para pessoas particulares',
       heroSlides: [
         {
@@ -1654,7 +1677,7 @@ const resources = {
     },
     sim_auto: {
       title: 'Car Insurance Quote',
-      stepProgress: 'Step {{step}} of 3',
+      stepProgress: 'Step {{step}} of 4',
       step1Title: 'Step 1 — Driver details',
       step2Title: 'Step 2 — Vehicle details',
       step3Title: 'Step 3 — Product and additional cover',
@@ -2271,6 +2294,29 @@ const resources = {
     home: {
       heroTitle: 'Insurance in Ansião (Leiria) — Auto, Life, Health and Home',
       heroDesc: 'Ansião Seguros: fast quotes and tailored proposals for Auto, Life, Health, Home and business solutions.',
+      heroTagline: 'Instant quotes · Tailored proposals',
+      heroHeadline: 'Protect what matters most, with confidence.',
+      heroSubtitle: 'Fast, automated quotes for Auto, Life, Health and Home — all in one place, with personalised service.',
+      heroCta1: 'Get a quote now',
+      heroCta2: 'View all products',
+      heroStats: [
+        { value: '9+', label: 'Insurance types' },
+        { value: '100%', label: 'Digital' },
+        { value: '24h', label: 'Fast response' },
+        { value: '★ 5.0', label: 'Satisfaction' }
+      ],
+      trustBadges: [
+        'No commitment',
+        'Free quote',
+        'Secure data',
+        'Personalised service'
+      ],
+      sectionTagIndividuals: '👤 Individuals',
+      sectionTagBusiness: '🏢 Business',
+      sectionTagBenefits: '⭐ Advantages',
+      ctaBannerTitle: 'Ready to protect what matters most?',
+      ctaBannerDesc: 'Get your quote in just a few minutes and receive a tailored proposal.',
+      ctaBannerContact: 'Contact us',
       featuredIndividuals: 'Products for individuals',
       heroSlides: [
         {
